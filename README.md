@@ -28,11 +28,16 @@ The model successfully predicted cell cluster identity with **~82% accuracy**. T
 #### Top Predictive Genes
 The model's decisions were most influenced by the following genes, suggesting their importance in defining different CAR-T cell states:
 
-*(Here, you can list the top 5-10 genes from your `top_20_important_genes.csv` file)*
-* Gene 1
-* Gene 2
-* Gene 3
-* ...
+MTRNR2L12	
+MT-ND4L	
+MT-ATP8	
+MT-ND6	
+XCL1	
+MAL	
+CRTAM	
+TPT1	
+NKG7	
+XCL2	
 
 ## 4. How to Run This Project Locally
 
