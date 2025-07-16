@@ -23,21 +23,22 @@ This project uses public single-cell RNA sequencing (scRNA-seq) data (GEO: **GSE
 The model successfully predicted cell cluster identity with **~82% accuracy**. The UMAP visualization below shows the 12 distinct cell populations identified by the Leiden clustering algorithm.
 
 ![UMAP Plot of Cell Clusters](analysis_notebook_umap.png)
-*(To add this image: take a screenshot of your colorful UMAP plot, name it `analysis_notebook_umap.png`, and upload it to this GitHub repository. This link will then work automatically.)*
+![Comet Dashboard](comet_dashboard.png)
+![Comet Hyperparameters](comet_hyperparameters.png)
 
 #### Top Predictive Genes
 The model's decisions were most influenced by the following genes, suggesting their importance in defining different CAR-T cell states:
 
-MTRNR2L12	
-MT-ND4L	
-MT-ATP8	
-MT-ND6	
-XCL1	
-MAL	
-CRTAM	
-TPT1	
-NKG7	
-XCL2	
+MTRNR2L12,
+MT-ND4L	,
+MT-ATP8	,
+MT-ND6	,
+XCL1	,
+MAL	,
+CRTAM	,
+TPT1	,
+NKG7	,
+XCL2	,
 
 ## 4. How to Run This Project Locally
 
