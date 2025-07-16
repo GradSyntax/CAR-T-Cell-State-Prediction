@@ -2,7 +2,7 @@
 
 A project by **Jadheer Ahsan kizhakkepurath** ([GradSyntax](https://github.com/GradSyntax)).
 
-### **➡️ [View the Live Interactive Demo on Hugging Face Spaces]([Your Hugging Face Space URL])**
+### **➡️ [View the Live Interactive Demo on Hugging Face Spaces](https://huggingface.co/spaces/gradsyntax/cart-cell-predictor)**
 
 ---
 
