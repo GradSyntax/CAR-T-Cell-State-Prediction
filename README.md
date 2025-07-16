@@ -15,7 +15,7 @@ This project uses public single-cell RNA sequencing (scRNA-seq) data (GEO: **GSE
 * **Data Processing:** Raw data was processed using **Scanpy** for quality control, normalization, and feature selection.
 * **Cell Clustering:** Unsupervised clustering with the Leiden algorithm revealed 12 distinct cell populations.
 * **Model Training:** A `RandomForestClassifier` was trained using **scikit-learn** to predict a cell's cluster based on the 2,000 most variable genes.
-* **Experiment Tracking:** **Comet.ml** was used to log all model parameters, metrics (82% accuracy), and artifacts for reproducible research. **[Link to your Public Comet Project]**
+* **Experiment Tracking:** **Comet.ml** was used to log all model parameters, metrics (82% accuracy), and artifacts for reproducible research. (See results in screenshots below)
 * **Deployment:** The final model was deployed as an interactive web application using **Gradio** and **Hugging Face Spaces**.
 
 ## 3. Key Results
